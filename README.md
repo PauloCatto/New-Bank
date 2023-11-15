@@ -1,5 +1,8 @@
 # New-Bank
 
+https://paulocatto.github.io/New-Bank/
+<br>
+
 Este projeto consiste em um formulário interativo implementado em JavaScript, contendo validações para os campos obrigatórios, como nome, e-mail, RG, CPF e data de nascimento. A validação do CPF é realizada por meio de um algoritmo específico, enquanto a data de nascimento é verificada para garantir que o usuário seja maior de 18 anos.
 
 Após o preenchimento correto do formulário, o usuário tem a opção de ativar a câmera do dispositivo para capturar uma imagem, que é então associada aos dados do formulário. A integração com a câmera é realizada utilizando a API navigator.mediaDevices para obter acesso à câmera do dispositivo.
